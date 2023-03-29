@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: SeasonTicket(),
+      home: const SeasonTicket(),
     );
   }
 }
